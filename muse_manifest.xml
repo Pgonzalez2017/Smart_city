@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="inteligente.es" resolutions="1x" timestamp="1485640385716">
+  <folder name="css">
+    <file name="site_global.css" crc="255617905"/>
+    <file name="index.css" crc="438197500" ref="index"/>
+    <file name="nomq_index.css" crc="4236937024" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lv-logo.png" crc="3856871661" seo="true" ref="index"/>
+    <file name="01.jpg" crc="3902333618" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="02.jpg" crc="4235265584" seo="true" ref="index"/>
+    <file name="03.jpg" crc="3910512283" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="grafico_circulo.jpg" crc="3773649526" seo="true" ref="index"/>
+    <file name="coche.jpg" crc="3815916001" ref="index"/>
+    <file name="imagenes_lv_propias_claves_ciudades_inteligente.jpg" crc="230754148" seo="true" ref="index"/>
+    <file name="imagenes_lv_propias_el-sector-smart-city-en-catalunya.jpg" crc="376554378" seo="true" ref="index"/>
+    <file name="coche-u1742-fr.jpg" crc="4207966645" ref="index"/>
+    <file name="imagenes_lv_propias_claves_ciudades_inteligente436x611.jpg" crc="463035211" seo="true" ref="index"/>
+    <file name="grafico_circulo433x549.jpg" crc="512446709" seo="true" ref="index"/>
+    <file name="coche-u1742-fr2.jpg" crc="4223957950" ref="index"/>
+    <file name="imagenes_lv_propias_claves_ciudades_inteligente434x607.jpg" crc="4027779625" seo="true" ref="index"/>
+    <file name="imagenes_lv_propias_el-sector-smart-city-en-catalunya401x570.jpg" crc="3977473966" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4198489978" seo="true" mt="1485640351423" redirect="true"/>
+</manifest>
